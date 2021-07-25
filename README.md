@@ -1,6 +1,6 @@
 # chainlink-mix
 
-> NOTE: This has been recently updated for better compatibility with local blockchains. Check out the scripts to learn more.
+> Files used during the Chainlink Dev Bootcamp.
 
 
 <br/>
